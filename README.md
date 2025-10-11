@@ -5,6 +5,7 @@
 
 ## Pré-requisito
 - Instale versão mais recente do Python
+- pip install -r requirements.txt
 
 ## Configuração de ambiente local
 
@@ -21,3 +22,7 @@
 
 - Desativando ambiente virtual
     - deactivate
+
+
+## Playlist
+- https://www.youtube.com/playlist?list=PLhW3qG5bs-L8WcAa9cfXaqGe0-Cq85y4X
