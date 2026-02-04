@@ -16,8 +16,7 @@
     - Execute um dos dois comandos:
         - source venv/bin/activate
         - venv\Scripts\activate (no Windows)
-        
-    - pip install pytest playwright
+    - pip install -r requirements.txt
     - playwright install
 
 - Desativando ambiente virtual

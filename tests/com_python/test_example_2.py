@@ -8,6 +8,7 @@ def run():
 
         # Abre uma página web
         page.goto("https://www.google.com")
+        print(page.title())
 
         # Espera um pouco para você ver a página
         page.wait_for_timeout(3000)
